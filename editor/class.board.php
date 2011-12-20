@@ -47,7 +47,10 @@ class Board {
 				$numbers[] = $matches[1];
 			}
 		}
-		return $numbers;
+		if(sort($numbers)) {
+			return $numbers;
+		}
+		return false;
 	}
 
 	// Getters
