@@ -35,42 +35,9 @@ body {
 	width:50%;
 }
 
-#savestat {
-	margin-top: 12px;
-	padding:5;
-	width:70px;
-	float:right;
-	text-align:center;
-}
-
-#savestat.unsaved {
-	border: 2px solid black;
-	background-color: darkred;
-	color:white;
-	font-size: 18px;
-	font-family: Impact;
-}
-
-#savestat.saved {
-	border: 2px solid black;
-	background-color: darkgreen;
-	color:white;
-	font-size: 18px;
-	font-family: Impact;
-}
-
-#savestat.error {
-	border: 2px solid black;
-	background-color: darkgreen;
-	color:white;
-	font-size: 18px;
-	font-family: Impact;
-}
-
 .secondrow {
 	clear: both;
 	height: 600px;
-	width: 800px;
 }
 
 /* Board */

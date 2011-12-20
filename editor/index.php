@@ -47,16 +47,7 @@ require_once 'class.config.php';
 						<p><input type="submit" name="load" value="Load Board" /><label for="loadNum">Load Level #:</label><select id="loadNum" name="loadNum"><?php foreach($levels as $level) { if(isset($_POST['loadNum']) && $_POST['loadNum'] == $level) { echo "<option selected value=\"{$level}\">$level</option>";} else { echo "<option value=\"{$level}\">$level</option>";}}?></select><?php } else { echo "<strong>No saved level data found.</strong>"; }?></p>
 					</div>
 					<div class="right">
-						<?php if(isset($board)) {?>
-							
-							
-							
-							<p>Board #: <strong><?php echo $board -> getNumber(); ?> </strong> <input id="number" type="hidden" name="number" value="<?php echo $board -> getNumber(); ?>" /><label for="name">Board Name:</label><input id="boardname" type="text" name="boardname" value="<?php echo $board -> getName();?>" /> <br><input type="submit" name="reset" value="Erase Board" />
-						
-							
-							
-							
-							<?php }?>
+						<?php if(isset($board)) {?><p>Board #: <strong><?php echo $board -> getNumber(); ?> </strong> <input id="number" type="hidden" name="number" value="<?php echo $board -> getNumber(); ?>" /><label for="name">Name:</label><input id="boardname" type="text" name="boardname" value="<?php echo $board -> getName();?>" /> <input type="submit" name="reset" value="Erase Board" /></p><?php }?>	
 					</div>
 				</fieldset>
 			</form>

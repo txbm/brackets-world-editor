@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level xml:id="level" number="4" name="" rowNumber="6" columnNumber="8" normalBrackets="" stasisBrackets="" etherBrackets="">
+  <row xml:id="row0" number="0">
+    <cell xml:id="cell0" number="0" column="0" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell1" number="1" column="1" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell2" number="2" column="2" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell3" number="3" column="3" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell4" number="4" column="4" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell5" number="5" column="5" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell6" number="6" column="6" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell7" number="7" column="7" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+  </row>
+  <row xml:id="row1" number="1">
+    <cell xml:id="cell8" number="8" column="0" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell9" number="9" column="1" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell10" number="10" column="2" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell11" number="11" column="3" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell12" number="12" column="4" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell13" number="13" column="5" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell14" number="14" column="6" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell15" number="15" column="7" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+  </row>
+  <row xml:id="row2" number="2">
+    <cell xml:id="cell16" number="16" column="0" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell17" number="17" column="1" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell18" number="18" column="2" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell19" number="19" column="3" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell20" number="20" column="4" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell21" number="21" column="5" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell22" number="22" column="6" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell23" number="23" column="7" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+  </row>
+  <row xml:id="row3" number="3">
+    <cell xml:id="cell24" number="24" column="0" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell25" number="25" column="1" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell26" number="26" column="2" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell27" number="27" column="3" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell28" number="28" column="4" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell29" number="29" column="5" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell30" number="30" column="6" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell31" number="31" column="7" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+  </row>
+  <row xml:id="row4" number="4">
+    <cell xml:id="cell32" number="32" column="0" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell33" number="33" column="1" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell34" number="34" column="2" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell35" number="35" column="3" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell36" number="36" column="4" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell37" number="37" column="5" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell38" number="38" column="6" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell39" number="39" column="7" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+  </row>
+  <row xml:id="row5" number="5">
+    <cell xml:id="cell40" number="40" column="0" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell41" number="41" column="1" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell42" number="42" column="2" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell43" number="43" column="3" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell44" number="44" column="4" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell45" number="45" column="5" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell46" number="46" column="6" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+    <cell xml:id="cell47" number="47" column="7" floorType="None" bracketA="None" bracketB="None" ballType="None" ballDirection="None" homeBracket="None"/>
+  </row>
+</level>
